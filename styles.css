@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  font-family:
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.header,
+.hero,
+.footer {
+  background-color: #1f2937;
+}
+
+.main-text {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.sign-up-btn {
+  background-color: #3882f6;
+  border: none;
+  color: #f9faf8;
+  font-weight: 800;
+  padding: 6px 18px;
+  border-radius: 8px;
+}
+
+.info-heading {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.quote-container {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-weight: 300;
+}
+
+#quote {
+  font-style: italic;
+  font-size: 36px;
+}
+
+#quote-author {
+  font-weight: 800;
+  font-size: 22px;
+}
+
+.call-to-action-continer {
+  background-color: #3882f6;
+  padding: 20px;
+}
+
+.call-to-action-continer p {
+    color: white;
+}
+
+#call-btn {
+    border: 2px solid white;
+}
+
+.footer {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
